@@ -1,0 +1,8 @@
+C:\Users\195984\source\repos\ConsultaCepIHttpClientFactory\Domains\bin\Debug\netcoreapp3.1\Domains.deps.json
+C:\Users\195984\source\repos\ConsultaCepIHttpClientFactory\Domains\bin\Debug\netcoreapp3.1\Domains.dll
+C:\Users\195984\source\repos\ConsultaCepIHttpClientFactory\Domains\bin\Debug\netcoreapp3.1\Domains.pdb
+C:\Users\195984\source\repos\ConsultaCepIHttpClientFactory\Domains\obj\Debug\netcoreapp3.1\Domains.AssemblyInfoInputs.cache
+C:\Users\195984\source\repos\ConsultaCepIHttpClientFactory\Domains\obj\Debug\netcoreapp3.1\Domains.AssemblyInfo.cs
+C:\Users\195984\source\repos\ConsultaCepIHttpClientFactory\Domains\obj\Debug\netcoreapp3.1\Domains.csproj.CoreCompileInputs.cache
+C:\Users\195984\source\repos\ConsultaCepIHttpClientFactory\Domains\obj\Debug\netcoreapp3.1\Domains.dll
+C:\Users\195984\source\repos\ConsultaCepIHttpClientFactory\Domains\obj\Debug\netcoreapp3.1\Domains.pdb
